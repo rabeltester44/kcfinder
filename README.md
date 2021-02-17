@@ -15,10 +15,10 @@ Recode by: [reapers](https://github.com/rabeltester44
 
 ## Installation
 ```sh
-$ git clone https://github.com/whoami-45/kc-find
-$ cd kc-find
+$ git clone https://github.com/rabeltester44/kcfinder
+$ cd kcfinder
 $ pip3 install -r requirements.txt
-$ python3 find.py
+$ python3 kcfinder.py
 ```
 ##### Update Wordlist
 ```sh
