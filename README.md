@@ -1,5 +1,5 @@
 # recode from admin finder : https://github.com/WeebSec/admin-san
-# reapers | https://exploits.my.id/
+# unknown45 | https://exploits.my.id/
 
 import asyncio
 import aiohttp
