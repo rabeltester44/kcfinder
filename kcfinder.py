@@ -75,9 +75,9 @@ print("\33[93;1mScan took {} seconds to complete\n".format(script_time))
 print("\33[91;1m### \33[93;1mResults \33[91;1m###\33[1;0m")
 if len(yay) == 0:
     print("\33[94;1m!!! No Results !!!")
-    os.system('python3 find.py')   
+    os.system('python3 kcfinder.py')   
 else:
     for y in yay:
         print(y)    
 print("\33[91;1m##################################\033[0m")
-os.system('python3 find.py')   
+os.system('python3 kcfinder.py')   
