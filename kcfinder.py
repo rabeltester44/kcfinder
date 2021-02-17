@@ -7,8 +7,8 @@ from aiohttp import ClientSession
 import time
 import socket
 import os
-print("\n\033[32;1m# KCFinder Path Finder by Unknown45\033[0m")
-print("\033[32;1mGithub : https://github/whoami-45\n\033[0m")
+print("\n\033[32;1m# KCFinder Path Finder by reapers\033[0m")
+print("\033[32;1mGithub : https://github/rabeltester44\n\033[0m")
 target = input("Url: \33[1;0m")
 print("")
 #Basic filter of input
