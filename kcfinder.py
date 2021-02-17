@@ -28,7 +28,7 @@ yay = []
 
 conn = aiohttp.TCPConnector(
         family=socket.AF_INET,
-        verify_ssl = False,
+        verify_ssl=False,
     ) #used because of issues some might have with the AsyncResolver
 
 async def fetch(url, session):
