@@ -141,3 +141,4 @@
 /colunista/vendor/ckeditor/upload.php
 /admin/assets/backend/bower_components/ckeditor/plugins/upload.php
 /backsite/js/kcfinder/upload.php
+/_cms7/upload.php
