@@ -123,3 +123,9 @@
 /scripts/js/kcfinder-3.12/upload.php
 /core/scripts/kcfinder-3.12/upload.php
 /core/scripts/wysiwyg/kcfinder-3.12/upload.php
+/admin/kcfinder/upload.php
+/public/upload.php
+/gfx/administration/js/ckeditor/upload.php
+/files/assets/upload.php
+/tpo/assets/ckeditor/upload.php
+ 
