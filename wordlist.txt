@@ -122,6 +122,7 @@
 /assets/scripts/kcfinder-3.12/upload.php
 /scripts/kcfinder-3.12/upload.php
 /scripts/js/kcfinder-3.12/upload.php
+/Northside/admin/ckeditor/upload.php
 /core/scripts/kcfinder-3.12/upload.php
 /core/scripts/wysiwyg/kcfinder-3.12/upload.php
 /admin/kcfinder/upload.php
