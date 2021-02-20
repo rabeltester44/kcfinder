@@ -134,3 +134,9 @@
 /asset/bootstrap/js/upload.php
 /assets/bo/plugin/kcfinder/upload.php
 /assets/dist/js/kcfinder/upload.php
+/helpers/extensions/upload.php
+/en/assets/upload.php
+/panel/upload.php
+/colunista/vendor/ckeditor/upload.php
+/admin/assets/backend/bower_components/ckeditor/plugins/upload.php
+/backsite/js/kcfinder/upload.php
