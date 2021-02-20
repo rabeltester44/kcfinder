@@ -128,4 +128,8 @@
 /gfx/administration/js/ckeditor/upload.php
 /files/assets/upload.php
 /tpo/assets/ckeditor/upload.php
- 
+/course/discussions/editors/upload.php
+/webroot/upload.php
+/asset/bootstrap/js/upload.php
+/assets/bo/plugin/kcfinder/upload.php
+/assets/dist/js/kcfinder/upload.php
