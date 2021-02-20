@@ -34,6 +34,7 @@
 /assets/ckeditor/plugins/kcfinder/upload.php
 /public/js/kcfinder/upload.php
 /public/ckeditor/kcfinder/upload.php
+/static/plugin/ckeditor/plugins/upload.php
 /public/ckeditor/plugins/kcfinder/upload.php
 /js/tinymce/kcfinder/upload.php
 /tinymce/kcfinder/upload.php
